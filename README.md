@@ -9,7 +9,7 @@ Also supports SELinux Enforcing.
 
 1. Clone this script from github or copy the files manually to your preferred directory.
 
-2. Edit script and point 'www' param to the folder containing your MediaWiki folder.
+2. Edit script and point 'www' param to the folder containing your MediaWiki folders.
 
 - for example if MediaWiki is located in /var/www/html/mediawiki:
 
